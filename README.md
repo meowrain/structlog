@@ -5,6 +5,12 @@
 
 就写了 testlog 这个库
 
+# 使用
+
+```bash
+go get -u github.com/meowrain/structlog
+```
+
 # 说明
 
 本文将介绍一个名为 testlogs 的 Go 语言工具包，它可以帮助开发者轻松地解析和输出结构体字段信息，并支持通过 testlog 标签自定义输出字段名。
